@@ -37,9 +37,9 @@
  #### Attribute:
 | Attribute    | Description  |
 |:---		|:---| 
-|mqvTextGravity| to set TextView gravity : center , start , end , bottom|
-|mqvTextStyle | to set TextStyle : bold , italic , normal|
-|mqvInterval | to set flip Interval : Default is 3000|
-|mqvScrollFadeDuration | to set FadeDuration : Default is 1500|
-|mqvTextColor | to set TextColor |
-|mqvTextSize | to set TextSize : default is 14sp| 
+|mqvTextGravity| To set TextView gravity : center , start , end , bottom|
+|mqvTextStyle | To set TextStyle : bold , italic , normal|
+|mqvInterval | To set flip Interval : Default is 3000|
+|mqvScrollFadeDuration | To set FadeDuration : Default is 1500|
+|mqvTextColor | To set TextColor |
+|mqvTextSize | To set TextSize : default is 14sp| 
