@@ -83,6 +83,7 @@ public class MarqueeVertical extends ViewFlipper {
             for (int i = 0; i < message.size(); i++) {
                 addView(createTextView(message.get(i)));
             }
+            startFlipping();
         }else{
             throw  new RuntimeException("ArrayList not to be null");
         }

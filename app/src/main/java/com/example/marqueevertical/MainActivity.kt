@@ -16,6 +16,5 @@ class MainActivity : AppCompatActivity() {
         aa.add("guyZa3")
         ff.setInOutAnimation(R.anim.left_in,R.anim.right_out)
         ff.startWithArray(aa)
-        ff.startFlipping()
     }
 }
