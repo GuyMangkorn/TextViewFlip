@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MarqueeVertical.iml" filepath="$PROJECT_DIR$/.idea/modules/MarqueeVertical.iml" group="MarqueeVertical" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="MarqueeVertical/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/marquee-vertical/marquee-vertical.iml" filepath="$PROJECT_DIR$/.idea/modules/marquee-vertical/marquee-vertical.iml" group="MarqueeVertical/marquee-vertical" />
+    </modules>
+  </component>
+</project>

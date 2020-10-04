@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+anim bottom_in
+anim bottom_out
+anim left_in
+anim left_out
+anim right_in
+anim right_out
+anim top_in
+anim top_out
+attr? mqvInterval
+attr? mqvScrollFadeDuration
+attr? mqvTextColor
+attr? mqvTextGravity
+attr? mqvTextSize
+attr? mqvTextStyle
+id bold
+id bottom
+id center
+id end
+id italic
+id normal
+id start
+styleable MarqueeVertical mqvTextSize mqvTextColor mqvScrollFadeDuration mqvInterval mqvTextStyle mqvTextGravity
