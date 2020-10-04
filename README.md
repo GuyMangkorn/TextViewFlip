@@ -61,6 +61,6 @@
      aa.add("TEST_1")
      aa.add("TEST_2")
      aa.add("TEST_3")
-textFlip.setInOutAnimation(R.anim.left_in,R.anim.right_out)
+textFlip.setInOutAnimation(R.anim.left_in,R.anim.right_out) // default is bottom_in , top_out
 textFlip.startWithArray(aa)
 ```
