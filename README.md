@@ -43,3 +43,14 @@
 |mqvScrollFadeDuration | To set FadeDuration : Default is 1500|
 |mqvTextColor | To set TextColor |
 |mqvTextSize | To set TextSize : default is 14sp| 
+
+### Java:
+ ```
+ ArrayList<String> arr = new ArrayList();
+        arr.add("TEST_1");
+        arr.add("TEST_2");
+        arr.add("TEST_3");
+ MarqueeVertical marqueeVertical = findViewById(R.id.textFlip);
+ marqueeVertical.setInOutAnimation(R.anim.top_in,R.anim.bottom_out); // default is bottom_in , top_out
+ marqueeVertical.startWithArray(arr);
+ ```
