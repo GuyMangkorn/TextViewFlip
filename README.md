@@ -21,7 +21,7 @@
  ```
 
 #### Layout XML:
- ```
+ ```xml
  <com.example.marquee_vertical.MarqueeVertical
        android:layout_marginTop="10dp"
        android:id="@+id/textFlip"
