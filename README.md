@@ -45,7 +45,7 @@
 |mqvTextSize | To set TextSize : default is 14sp| 
 
 ### Java:
- ```
+ ```java
  ArrayList<String> arr = new ArrayList();
         arr.add("TEST_1");
         arr.add("TEST_2");
@@ -55,7 +55,7 @@
  marqueeVertical.startWithArray(arr);
  ```
  ### Kotlin:
- ```
+ ```kotlin
  val textFlip:MarqueeVertical = findViewById(R.id.textFlip);
  var aa:ArrayList<String> = ArrayList()
      aa.add("TEST_1")
