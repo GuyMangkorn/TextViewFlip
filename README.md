@@ -14,7 +14,7 @@
  ```
 
  #### Dependency:
- ```
+ ```groovy
   dependencies {
 	        implementation 'com.github.sotgame1234:textView-flip:TAG-Version'
 	}
