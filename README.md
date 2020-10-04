@@ -8,7 +8,9 @@
 			maven { url 'https://jitpack.io' }
 		}
 	}
- 
+ ```
+ <br/>
+ ```
   dependencies {
 	        implementation 'com.github.sotgame1234:textView-flip:TAG-Version'
 	}
